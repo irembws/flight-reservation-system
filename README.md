@@ -21,3 +21,6 @@ A basic flight reservation system developed with C# Windows Forms.
 ## Project Purpose
 
 This project was developed to practice Windows Forms design, form controls, user input handling and basic desktop application development.
+## Demo
+
+![Flight Reservation Demo](FlightReservationGIF.gif)
